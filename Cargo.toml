@@ -1,6 +1,9 @@
 [package]
-name = "downloader"
+name = "rust_practice"
 version = "0.1.0"
 authors = ["mithril1992 <nomber00@gmail.com>"]
+
+[[bin]]
+name = "async_queue"
 
 [dependencies]
